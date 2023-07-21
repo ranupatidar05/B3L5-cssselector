@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'ranuFont';
+    src: url("../fonts/Alex.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'rivaFont';
+    src: url("../fonts/Chunk.otf") format("opentype");
+}
+article{
+    border-bottom: 1px solid black;
+}
+h1.n1{
+    color: red;
+    font-family: 'ranuFont',Arial, Helvetica, sans-serifss;
+}
+h1.n2{
+    color: rgb(2, 77, 2);
+    font-family: 'rivaFont',Arial, Helvetica, sans-serifss;
+}
